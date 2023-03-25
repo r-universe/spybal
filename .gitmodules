@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mudfold"]
+	path = mudfold
+	url = https://github.com/cran/mudfold
+	shallow = true
+	registered = true
